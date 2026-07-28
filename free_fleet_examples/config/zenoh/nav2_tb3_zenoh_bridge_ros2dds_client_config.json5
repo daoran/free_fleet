@@ -7,7 +7,7 @@
         subscribers: [],
         service_servers: [],
         service_clients: [],
-        action_servers: [".*/navigate_to_pose"],
+        action_servers: [".*/navigate_to_pose", ".*/dock_robot"],
         action_clients: [],
       },
       pub_max_frequencies: [".*/battery_state=1"],
